@@ -1,2 +1,1 @@
-# Loli
-LoliWare
+# LoliWare
